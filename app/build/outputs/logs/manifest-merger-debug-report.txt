@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:7:5-9:67
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	android:maxSdkVersion
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:9:39-65
+	android:targetSdkVersion
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:14:5-47:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.pop.convenienceapp.MainActivity
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:19:9-34:20
+	android:label
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:20:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:24:15-62
+intent-filter#com.pop.convenienceapp.action.MAIN_ACTIVITY_UI_UPDATE_INTENT
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:26:13-28:29
+action#com.pop.convenienceapp.action.MAIN_ACTIVITY_UI_UPDATE_INTENT
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:27:17-102
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:27:25-100
+intent-filter#com.pop.convenienceapp.action.MAIN_ACTIVITY_APPDATA_UPDATE_INTENT
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:29:13-31:29
+action#com.pop.convenienceapp.action.MAIN_ACTIVITY_APPDATA_UPDATE_INTENT
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:30:17-107
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:30:25-105
+service#com.pop.convenienceapp.ProxService
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:35:18-44
+receiver#com.pop.convenienceapp.StartupIntentReceiver
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:36:19-55
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:38:25-76
+receiver#com.pop.convenienceapp.BatteryLevelReceiver
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:41:19-54
+intent-filter#android.intent.action.BATTERY_LOW+android.intent.action.BATTERY_OKAY
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.BATTERY_LOW
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:43:17-75
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:43:25-73
+action#android.intent.action.BATTERY_OKAY
+ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\src\main\AndroidManifest.xml:44:25-74

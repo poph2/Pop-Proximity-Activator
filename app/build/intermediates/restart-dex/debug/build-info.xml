@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="62646385919190"
+    token="7230464257544767345" >
+
+    <task
+        name="javac"
+        duration="13441" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="308" />
+    <task
+        name="verifier"
+        duration="90" />
+
+    <artifact
+        location="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="62646385919190" >
+        <artifact
+            location="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

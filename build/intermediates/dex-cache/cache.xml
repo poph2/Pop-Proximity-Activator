@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\adbello\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.1_16898e0ce478a184b5a00fc742a0e6a7ebf44874\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_7a27d294381a2d6f7a14a145f2f41ced90cbad16\classes.dex" />
+    </item>
+    <item
+        jar="G:\C\Pop\Dev\android-sdk_r24.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_ffeba7201bf2d2980d67f90abd3d8cdbbf9556cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ccd10fcaf239aecf4f4ec679183c6ad17b2cfd">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3ce66daccfeb71622d864694828848f96aab6a52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c88bb760b642481c2fe30dfb394ca30bca47de30">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de0ef69aec443e8132b9c6de776a1b10b71a9f8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\adbello\AndroidStudioProjects\Pop Proximity Activator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_e318d66a2140f427eb02f63b1bdc163c431f0edf\classes.dex" />
+    </item>
+
+</items>
